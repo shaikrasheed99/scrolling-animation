@@ -22,6 +22,12 @@ section {
     transition: all 3s;
 }
 
+.show {
+    opacity: 1;
+    filter: blur(0);
+    transform: translateX(0);
+}
+
 .logos {
     display: flex;
 }
