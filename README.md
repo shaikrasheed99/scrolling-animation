@@ -1,5 +1,7 @@
 # Animation while Scrolling
 
+Deployed this animation website on [Netlify](https://static-scrolling-animation.netlify.app/).
+
 We can achieve this animation from 3 ways
 
 1. `Animation On Scroll` [library](https://michalsnik.github.io/aos/).
